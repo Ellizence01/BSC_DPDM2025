@@ -62,4 +62,6 @@ Machine Learning , สถิติ (Statistics) , ฐานข้อมูล (D
 
 ---
 
+chapter -->  https://github.com/Ellizence01/BSC_DPDM2025/blob/main/02Data.pdf
+
 
