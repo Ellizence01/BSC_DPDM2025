@@ -63,10 +63,15 @@ Machine Learning , สถิติ (Statistics) , ฐานข้อมูล (D
 ---
 
 chapter -->  https://github.com/Ellizence01/BSC_DPDM2025/blob/main/02Data.pdf
+
 chapter2 -->  https://github.com/Ellizence01/BSC_DPDM2025/blob/main/02Data.pdf
+
 chapter3 --> https://github.com/Ellizence01/BSC_DPDM2025/blob/main/03Preprocessing.pdf
+
 chapter6 --> https://github.com/Ellizence01/BSC_DPDM2025/blob/main/06FPBasic.pdf
+
 chapter8 --> https://github.com/Ellizence01/BSC_DPDM2025/blob/main/08ClassBasic.pdf
+
 chapter10 --> https://github.com/Ellizence01/BSC_DPDM2025/blob/main/10ClusBasic.pdf
 
 
